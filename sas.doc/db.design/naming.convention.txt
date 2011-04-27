@@ -1,0 +1,10 @@
+数据库:
+数据库名:sas_db
+用户名:sas_user
+密码:hit0937201sas
+编码:utf-8
+
+包名:
+org.sas
+org.sas.db
+
