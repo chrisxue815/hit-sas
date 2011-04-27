@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sas"
+  id="myeclipse.1303896023411"
+  context-root="/sas"
+  j2ee-spec="5.0"
+  archive="sas.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
